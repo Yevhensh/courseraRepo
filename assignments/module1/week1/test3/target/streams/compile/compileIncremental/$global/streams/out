@@ -1,0 +1,65 @@
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set(/Users/yevhen/Projects/coursera/test3/src/main/scala/test3/Tester1.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(/Users/yevhen/Projects/coursera/test3/src/main/scala/test3/Tester1.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/Users/yevhen/Projects/coursera/test3/src/main/scala/test3/Tester1.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/Users/yevhen/Projects/coursera/test3/src/main/scala/test3/Tester1.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Recompiling all 1 sources: invalidated sources (1) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to /Users/yevhen/Projects/coursera/test3/target/scala-2.12/classes...[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.17:component from component compiler for Scala 2.12.4[0m
+[0m[[0minfo[0m] [0m'compiler-interface' not yet compiled for Scala 2.12.4. Compiling...[0m
+[0m[[0mdebug[0m] [0mPlain interface to Scala compiler 2.12.4  with arguments: [0m
+[0m[[0mdebug[0m] [0m	-nowarn[0m
+[0m[[0mdebug[0m] [0m	-d[0m
+[0m[[0mdebug[0m] [0m	/var/folders/25/q1k2n7f55_l3xbx_wv9n_m3c0000gn/T/sbt_7df58a1a[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/classes:/Users/yevhen/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.4.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/Users/yevhen/.sbt/boot/scala-2.10.7/org.scala-sbt/sbt/0.13.17/xsbti/interface-0.13.17.jar:/var/folders/25/q1k2n7f55_l3xbx_wv9n_m3c0000gn/T/sbt_cafc0a64/srcs/org.scala-sbt/compiler-interface/compiler-interface-0.13.17-sources.jar:/Users/yevhen/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.12.4.jar:/Users/yevhen/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.12.4.jar:/Users/yevhen/.ivy2/cache/org.scala-lang.modules/scala-xml_2.12/bundles/scala-xml_2.12-1.0.6.jar:/Users/yevhen/.ivy2/cache/jline/jline/jars/jline-2.14.5.jar[0m
+[0m[[0mdebug[0m] [0m	/var/folders/25/q1k2n7f55_l3xbx_wv9n_m3c0000gn/T/sbt_25a6c3dc/xsbt/API.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/25/q1k2n7f55_l3xbx_wv9n_m3c0000gn/T/sbt_25a6c3dc/xsbt/Analyzer.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/25/q1k2n7f55_l3xbx_wv9n_m3c0000gn/T/sbt_25a6c3dc/xsbt/Command.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/25/q1k2n7f55_l3xbx_wv9n_m3c0000gn/T/sbt_25a6c3dc/xsbt/Compat.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/25/q1k2n7f55_l3xbx_wv9n_m3c0000gn/T/sbt_25a6c3dc/xsbt/CompilerInterface.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/25/q1k2n7f55_l3xbx_wv9n_m3c0000gn/T/sbt_25a6c3dc/xsbt/ConsoleInterface.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/25/q1k2n7f55_l3xbx_wv9n_m3c0000gn/T/sbt_25a6c3dc/xsbt/DelegatingReporter.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/25/q1k2n7f55_l3xbx_wv9n_m3c0000gn/T/sbt_25a6c3dc/xsbt/Dependency.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/25/q1k2n7f55_l3xbx_wv9n_m3c0000gn/T/sbt_25a6c3dc/xsbt/ExtractAPI.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/25/q1k2n7f55_l3xbx_wv9n_m3c0000gn/T/sbt_25a6c3dc/xsbt/ExtractUsedNames.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/25/q1k2n7f55_l3xbx_wv9n_m3c0000gn/T/sbt_25a6c3dc/xsbt/GlobalHelpers.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/25/q1k2n7f55_l3xbx_wv9n_m3c0000gn/T/sbt_25a6c3dc/xsbt/LocateClassFile.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/25/q1k2n7f55_l3xbx_wv9n_m3c0000gn/T/sbt_25a6c3dc/xsbt/Log.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/25/q1k2n7f55_l3xbx_wv9n_m3c0000gn/T/sbt_25a6c3dc/xsbt/Message.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/25/q1k2n7f55_l3xbx_wv9n_m3c0000gn/T/sbt_25a6c3dc/xsbt/ScaladocInterface.scala[0m
+[0m[[0minfo[0m] [0m  Compilation completed in 8.893 s[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.17:component from component compiler for Scala 2.12.4[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 46c9b53, interfacing (CompilerInterface) with Scala compiler version 2.12.4[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/classes:/Users/yevhen/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.4.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/Users/yevhen/Projects/coursera/test3/target/scala-2.12/classes[0m
+[0m[[0mdebug[0m] [0mScala compilation took 23.270391062 s[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /Users/yevhen/Projects/coursera/test3/src/main/scala/test3/Tester1.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /Users/yevhen/Projects/coursera/test3/src/main/scala/test3/Tester1.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/Users/yevhen/Projects/coursera/test3/src/main/scala/test3/Tester1.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/Users/yevhen/Projects/coursera/test3/src/main/scala/test3/Tester1.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /Users/yevhen/Projects/coursera/test3/src/main/scala/test3/Tester1.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, wait, $asInstanceOf, equals, asInstanceOf, executionStart, synchronized, $isInstanceOf, main, notifyAll, isInstanceOf, ==, clone, $init$, toString, args, !=, Tester1, getClass, ne, eq, delayedInit, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] New invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Previously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] All newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
